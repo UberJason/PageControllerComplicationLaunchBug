@@ -1,5 +1,7 @@
 # PageControllerComplicationLaunchBug
 
+## Update: Resolved in watchOS 6 beta 4.
+
 This project shows a bug in watchOS 6 beta 2.
 
 This bug applies to watchOS apps using a page-based layout using a "next page" segue in Interface.storyboard, and which also contain a watchface complication
